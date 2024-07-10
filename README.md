@@ -35,8 +35,18 @@ This project was developped using the following technologies:
 </p>
 
 📚 Libraries
-- [Google Fonts](https://fonts.google.com/)
-- [Day.js](https://day.js.org/)
+- [ChatGPT](https://chatgpt.com/): Frontend.
+- [Platform OpenAI](https://platform.openai.com/): GPT API (LLM Model) - Large Language Models - [LLaMA](https://llama.meta.com/), [Gemini](https://blog.google/technology/ai/google-gemini-ai/).
+    - GPT-4o
+    - GPT-4 Turbo 
+    - GPT-3.5 Turbo
+- [Playground](https://platform.openai.com/playground/)
+- [Pricing](https://openai.com/api/pricing/)
+- [Documentation](https://platform.openai.com/docs/overview)
+
+
+Prompt:
+Vou viajar para Londres em agosto de 2024. Quero que faça um roteiro de viagem para mim.
 
 🛠 Utilities
 - Images
