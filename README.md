@@ -44,7 +44,15 @@ This project was developped using the following technologies:
 - [Pricing](https://openai.com/api/pricing/)
 - [Documentation](https://platform.openai.com/docs/overview)
 
+Install the OpenAI library:
+```sh
+pip3 install openai
+```
 
+Execute to program:
+```sh
+python3 chatComp.py
+```
 Prompt:
 Vou viajar para Londres em agosto de 2024. Quero que faça um roteiro de viagem para mim.
 
